@@ -1,7 +1,7 @@
 # useeio2017
 Python in Jupyter Notebook implementation of USEEIO2017
 
-The data set is provided in a zip file, once you down unzip and store the xlxs file in the head directory.
+The data set is provided in a zip file. Once you download and unzip,store the xlxs file in the head directory.
 
 The module uses pickle version of the xlxs spread to speed things up alot. 
 
